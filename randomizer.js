@@ -1,8 +1,8 @@
 const imageArray = [
 	"images/G4.jpeg",
     "images/IMG_2558.jpeg",
-	"IMG_1543",
-	"IMG_1546"
+	"IMG_1543.jpg",
+	"IMG_1546.jpg"
 ];
 
 const image = document.querySelector("img");
