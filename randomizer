@@ -1,6 +1,8 @@
 const imageArray = [
 	"images/G4.jpeg",
-    "images/IMG_.2558jpeg"
+    "images/IMG_.2558jpeg",
+	"IMG_1543.jpg",
+	"IMG_1546.jpg"
 
 ];
 
