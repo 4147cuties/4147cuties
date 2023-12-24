@@ -12,7 +12,7 @@ const imageArray = [
 	"images/FullSizeRender4.jpeg",
 	"images/FullSizeRender5.jpeg",
 	"images/FullSizeRender6.jpeg",
-	"images/FullSizeRender1.jpeg",
+	"images/FullSizeRender.jpeg",
 	"images/IMG_0302.jpeg",
 	"images/IMG_0831.jpeg",
 	"images/IMG_1639.jpg",
